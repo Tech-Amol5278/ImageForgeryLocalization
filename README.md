@@ -8,6 +8,6 @@ This project focuses on detecting and localizing image forgeries using a deep le
 The main code and data for this project are stored in a **private repository**.
 
 If you require access, email with below details 
-1. Email linked to GitHub Account
+1. Email ID linked to GitHub Account OR
 2. GitHub User ID
    
